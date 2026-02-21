@@ -1,4 +1,4 @@
-Secure Multi-Client Clock Synchronization using Mutual TLS
+### Secure Multi-Client Clock Synchronization using Mutual TLS
 
 📌 Project Overview
 
